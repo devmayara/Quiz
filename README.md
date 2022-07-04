@@ -1,5 +1,3 @@
-# Quiz
-
 
 <h1 align="center">Projeto Web Quiz</h1>
 
